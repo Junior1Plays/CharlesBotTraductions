@@ -87,7 +87,7 @@
 "Motivo:"
 "Desculpe ${message.author} não pude banir o membro devido o: ${error}" (não precisa traduzir o ${message.author} nem o ${error})
 "Olá! Meu Prefixo é C!"
-"Olá meu nome é Charles e eu fui criado por Tyran#8501, o meu servidor de origem e o Panqueca's Lake, eu não tinha muitos comandos, mais surgiram 3 pessoas querendo ajudar o meu Desenvolvimento, que foram Junior Schueller, ZoriaTv_ e YuriHank. Pelo oque eu sei (não estou afirmando) o Junior Schueller foi oque mais fez comandos para mim. (em breve mais informações) (Panqueca's Lake: https://discord.gg/n4v7cYt"
+"Olá meu nome é Charles e eu fui criado por Tyran#8501, o meu servidor de origem e o Panqueca's Lake, eu não tinha muitos comandos, mais surgiram 3 pessoas querendo ajudar o meu Desenvolvimento, que foram Junior Schueller, ZoriaTv_ (Menma) e YuriHank. Pelo oque eu sei (não estou afirmando) o Junior Schueller foi oque mais fez comandos para mim. (em breve mais informações) (Panqueca's Lake: https://discord.gg/n4v7cYt"
 "Por Favor Digite uma quantidade para limpar."
 "Erro! você pode excluir apenas entre 2 e 100 mensagens de uma vez !"
 "Convite do Servidor"
